@@ -70,7 +70,6 @@ DevOps
 📫 Contact
 
 - LinkedIn: "https://www.linkedin.com/in/andreluishaeberlin" (https://www.linkedin.com/in/andreluishaeberlin)
-- Email: andrehaeberlin@outlook.com
 
 ---
 
