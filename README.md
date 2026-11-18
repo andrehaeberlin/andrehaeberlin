@@ -1,76 +1,50 @@
-Hi, I'm André Haeberlin 👋
+# Hi, I'm André Haeberlin 👋
 
-Software & Product Development Engineer building modern software for engineering and industrial applications.
+**Software & Product Development Engineer · Engineering software · Industrial applications · AI**
 
-I design and develop software that streamlines engineering workflows, automates repetitive processes, and transforms technical knowledge into scalable digital solutions.
+I build software that helps engineers work smarter: automating repetitive tasks, simplifying technical workflows, and turning engineering knowledge into useful digital tools.
 
-🚀 Focus Areas
+[Connect on LinkedIn](https://www.linkedin.com/in/andreluishaeberlin)
 
-- Backend development with Python and FastAPI
-- Frontend development with Next.js, React, and TypeScript
-- Software Architecture, Clean Architecture, and Domain-Driven Design (DDD)
-- PostgreSQL, SQLAlchemy, and REST APIs
-- AI-powered applications using RAG, OCR, and LLMs
-- Engineering productivity and knowledge management platforms
+## Selected projects
 
-🛠 Tech Stack
+### Professional work
 
-Languages
+**WAIPE — WEG AI Planning Engineering**
 
-- Python
-- TypeScript
-- C#
-- SQL
+A web platform built with **Next.js and Python** for engineering planning.
 
-Backend
+**GIS — Global Integration System**
 
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
-- REST APIs
+A desktop application built with **C#** for an engineering and industrial context.
 
-Frontend
+### Personal projects
 
-- Next.js
-- React
-- Ant Design
-- Material UI
+**EKP — Engineering Knowledge Platform**
 
-Architecture
+A personal project focused on organizing engineering knowledge. *Private repository.*
 
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- SOLID Principles
-- Repository Pattern
+**MARCO — Engineering Project Portfolio Management**
 
-DevOps
+A personal project focused on managing engineering project portfolios. *Private repository.*
 
-- Docker
-- GitHub Actions
-- Git
+## Core technologies
 
-📌 Featured Professional Projects
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, TypeScript, C#, SQL |
+| Backend & data | FastAPI, SQLAlchemy, PostgreSQL, REST APIs |
+| Frontend | Next.js, React, Ant Design, Material UI |
+| Delivery | Docker, GitHub Actions, Git |
 
-- GIS — Global Integration System (Desktop application built with C#)
-- WAIPE — WEG AI Planning Engineering (Web platform built with Next.js and Python)
+I use **Clean Architecture, Domain-Driven Design (DDD), and SOLID principles** to structure applications around their domain.
 
-📌 Featured Personal Projects
+## Current focus
 
-- EKP — Engineering Knowledge Platform
-- MARCO — Engineering Project Portfolio Management
-- AI-powered engineering experiments
-- Productivity tools for engineering teams
+- Applying **RAG, OCR, and LLMs** to engineering workflows.
+- Building tools for **engineering productivity and knowledge management**.
+- Deepening my knowledge of **C#/.NET, AI engineering, and cloud architecture**.
 
-🌱 Currently Learning
+## Let's connect
 
-- Advanced C# and .NET
-- AI Engineering
-- Cloud Architecture
-
-📫 Contact
-
-- LinkedIn: "https://www.linkedin.com/in/andreluishaeberlin" (https://www.linkedin.com/in/andreluishaeberlin)
-
----
-
-"Building software that helps engineers work smarter."
+Interested in engineering software, industrial applications, or AI? [Find me on LinkedIn](https://www.linkedin.com/in/andreluishaeberlin).
